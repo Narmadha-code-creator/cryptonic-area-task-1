@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    margin:40px;
+}
+
+input, textarea{
+    display:block;
+    margin:10px 0;
+    width:300px;
+}
+
+button{
+    padding:8px;
+    background:navy;
+    color:white;
+    border:none;
+}
+
+.post{
+    border:1px solid #ccc;
+    padding:10px;
+    margin:10px 0;
+}
